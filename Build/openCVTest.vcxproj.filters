@@ -4,6 +4,9 @@
     <ClCompile Include="C:\Users\jrabr\OneDrive\Desktop\Personal Projects\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\jrabr\OneDrive\Desktop\Personal Projects\Inference.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="C:\Users\jrabr\OneDrive\Desktop\Personal Projects\CMakeLists.txt" />
